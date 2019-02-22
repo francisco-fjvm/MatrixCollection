@@ -1,0 +1,10 @@
+Package: MatrixCollection
+Type: Package
+Title: Colecci\'on de matrices aleatorias y operaciones elementales para la ense\~nanza de temas con matrices
+Version: 0.1.0
+Author: Francisco Jos\'e Villalobos Madrigal
+Maintainer:  <francisco.villalobosmadrigal@ucr.ac.cr>
+Description: El paquete MatrixCollection contiene funciones para la creaci\'on de matrices aleatorias y operaciones elementales sobre filas en matrices. Dicha funciones se utilizan para la ense\~nanza de temas de matrices especiales para cursos de \'Algebra Lineal y tiene como  prop\'osito de acortar la digitaci\'on de muchas funciones en el desarrollo de las lecciones.
+License: GPL-2
+Encoding: latin1
+LazyData: true
